@@ -1,5 +1,6 @@
 
-# Sentiment Analysis using TF-IDF and Logistic Regression
+# SENTIMENT-ANALYSIS-NLP
+
 
 **COMPANY**: CODTECH IT SOLUTIONS  
 **NAME**: BHARAT BHANDARI  
